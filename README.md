@@ -27,10 +27,11 @@ To run the code, you need to have Python installed along with the Matplotlib lib
 
 ```bash
 pip install matplotlib
+```
 
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. If you find any bugs or have suggestions for improvement, feel free to open an issue.
 
-Acknowledgments
+## Acknowledgments
 This repository is inspired by the official Matplotlib documentation and various online resources. Special thanks to the Matplotlib developers and contributors for their excellent work!
